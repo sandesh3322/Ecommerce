@@ -1,0 +1,15 @@
+
+    "start":"nodemon index.js"
+    adding this to json file in scripts
+    start-dev garyo vane npm run start-dev garna parxa
+    to send argument in cmd  npm start --
+
+
+
+    src -> config -> express.config.js 
+
+
+
+    // error aayo 
+     postman ko /me complete garney 
+     /auth/login   
